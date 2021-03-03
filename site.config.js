@@ -7,9 +7,9 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Anudeep Reddy',
+  domain: 'https://notion-blog-eta-nine.vercel.app/',
+  author: 'Anudeep Reddy',
 
   // open graph metadata (optional)
   description: 'Example site description',
