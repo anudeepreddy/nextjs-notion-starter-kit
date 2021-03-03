@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Anudeep Reddy',
-  domain: 'https://notion-blog-eta-nine.vercel.app',
+  domain: 'notion-blog-eta-nine.vercel.app',
   author: 'Anudeep Reddy',
 
   // open graph metadata (optional)
